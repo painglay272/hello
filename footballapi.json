@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Manchester United vs Chelsea",
     "image": "https://sta.vnres.co/file/common/20241230/f773486fff4c1f50edcb69eefb712980_wh320.png",
-    "video_link": "https://pull.niues.live/live/stream-500807_lhd_1738145369370_3042251786_480.ts?ps=7&app=live&stream=stream-500807_lhd&vhost=pull.niues.live&x_push_domain=push06.scstream.net",
+    "video_link": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6b13eea2fe02f7ad572b110bb1018fce&txTime=679a52fb",
     "league": "Premier League",
     "date": "2025-02-01",
     "time": "20:00 UTC"
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Barcelona vs Real Madrid",
     "image": "https://sta.vnres.co/file/common/20250117/1569d603589b3b43c28018a1a2e52fca_wh320.jpg",
-    "video_link": "https://pull.niur.live/live/stream-462413_lhd-1738144991.ts?txspiseq=102509093357847191609",
+    "video_link": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=6b13eea2fe02f7ad572b110bb1018fce&txTime=679a52fb",
     "league": "La Liga",
     "date": "2025-02-02",
     "time": "21:00 UTC"
